@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<img src="https://picsum.photos/200/300" />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>randimg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
